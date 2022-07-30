@@ -53,9 +53,6 @@ class HabitAdapter(
                 }
             )
         }
-
-
-
     }
 
     companion object {
